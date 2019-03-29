@@ -1,5 +1,5 @@
 (*
-Program to calculate factorial from user inputted integer
+Program to calculate factorial from user inputted integer.
 
 Cory Iley
 February 2019
