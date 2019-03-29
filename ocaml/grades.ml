@@ -1,8 +1,8 @@
-(* Program to create record with student name, scores, and calculated letter grade.
+(*
+Program to create record with student name, scores, and calculated letter grade.
 
 Cory Iley
 March 2019
-
 *)
 
 open Core
